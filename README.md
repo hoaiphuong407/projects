@@ -1,2 +1,2 @@
 # Odin projects
-Recipes website 
+Collection of projects from The Odin Project. 
