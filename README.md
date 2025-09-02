@@ -1,2 +1,2 @@
-# projects
-Collection of web development projects. 
+# Projects
+A collection of my web development projects. 
