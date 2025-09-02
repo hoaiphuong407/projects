@@ -1,2 +1,2 @@
-# projects
-Collection of web development projects. 
+# Odin projects
+Collection of projects from The Odin Project. 
